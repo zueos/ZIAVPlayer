@@ -1,0 +1,492 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* ZIAVPlayerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {814, 772}}";
+			sepNavSelRange = "{275, 0}";
+			sepNavVisRange = "{0, 493}";
+		};
+	};
+	1D3623250D0F684500981E51 /* ZIAVPlayerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{1128, 446}\";\n            s = 0;\n        },\n                {\n            r = \"{1646, 351}\";\n            s = 0;\n        },\n                {\n            r = \"{2070, 165}\";\n            s = 0;\n        },\n                {\n            r = \"{2304, 205}\";\n            s = 0;\n        },\n                {\n            r = \"{2576, 118}\";\n            s = 0;\n        },\n                {\n            r = \"{2818, 140}\";\n            s = 0;\n        },\n                {\n            r = \"{2979, 74}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 3062}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {696, 772}}";
+			sepNavSelRange = "{1562, 0}";
+			sepNavVisRange = "{0, 1570}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* ZIAVPlayer */ = {
+		activeExec = 0;
+		executables = (
+			CACF7E6F1219FD2500235B71 /* ZIAVPlayer */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ZIAVPlayerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {695, 772}}";
+			sepNavSelRange = "{474, 0}";
+			sepNavVisRange = "{0, 476}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ZIAVPlayerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {948, 814}}";
+			sepNavSelRange = "{1468, 0}";
+			sepNavVisRange = "{0, 1855}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = CACF7E6F1219FD2500235B71 /* ZIAVPlayer */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ZIAVPlayer */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* ZIAVPlayer */,
+		);
+		codeSenseManager = CACF7E791219FD2800235B71 /* Code sense */;
+		executables = (
+			CACF7E6F1219FD2500235B71 /* ZIAVPlayer */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					517,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 303748950;
+			PBXWorkspaceStateSaveDate = 303748950;
+		};
+		perUserProjectItems = {
+			CACF7E7A121A06F600235B71 = CACF7E7A121A06F600235B71 /* PBXTextBookmark */;
+			CACF7E7B121A06F600235B71 = CACF7E7B121A06F600235B71 /* PBXTextBookmark */;
+			CACF7E7C121A06F600235B71 = CACF7E7C121A06F600235B71 /* PBXTextBookmark */;
+			CACF7E7D121A06F600235B71 = CACF7E7D121A06F600235B71 /* PBXTextBookmark */;
+			CACF7E7E121A06F600235B71 = CACF7E7E121A06F600235B71 /* PBXTextBookmark */;
+			CACF7EA1121AD75900235B71 /* PBXTextBookmark */ = CACF7EA1121AD75900235B71 /* PBXTextBookmark */;
+			CACF7EAB121AD7A400235B71 /* PBXTextBookmark */ = CACF7EAB121AD7A400235B71 /* PBXTextBookmark */;
+			CACF7EAC121AD7A400235B71 /* PBXTextBookmark */ = CACF7EAC121AD7A400235B71 /* PBXTextBookmark */;
+			CACF7EAD121AD7A400235B71 /* PBXTextBookmark */ = CACF7EAD121AD7A400235B71 /* PBXTextBookmark */;
+			CACF7ECC121AD87C00235B71 /* PBXTextBookmark */ = CACF7ECC121AD87C00235B71 /* PBXTextBookmark */;
+			CACF7ED8121AD89300235B71 /* PBXTextBookmark */ = CACF7ED8121AD89300235B71 /* PBXTextBookmark */;
+			CACF7EF2121AD9C900235B71 /* PBXTextBookmark */ = CACF7EF2121AD9C900235B71 /* PBXTextBookmark */;
+			CACF7EF3121AD9C900235B71 /* PBXTextBookmark */ = CACF7EF3121AD9C900235B71 /* PBXTextBookmark */;
+			CACF7EF4121AD9C900235B71 /* PBXTextBookmark */ = CACF7EF4121AD9C900235B71 /* PBXTextBookmark */;
+			CACF7EF5121AD9C900235B71 /* PBXTextBookmark */ = CACF7EF5121AD9C900235B71 /* PBXTextBookmark */;
+			CACF7EFC121ADA7B00235B71 /* PBXTextBookmark */ = CACF7EFC121ADA7B00235B71 /* PBXTextBookmark */;
+			CACF7EFD121ADA7B00235B71 /* PBXTextBookmark */ = CACF7EFD121ADA7B00235B71 /* PBXTextBookmark */;
+			CACF7EFE121ADA7B00235B71 /* PBXTextBookmark */ = CACF7EFE121ADA7B00235B71 /* PBXTextBookmark */;
+			CACF7EFF121ADA7B00235B71 /* PBXTextBookmark */ = CACF7EFF121ADA7B00235B71 /* PBXTextBookmark */;
+			CACF7F00121ADA7B00235B71 /* PBXTextBookmark */ = CACF7F00121ADA7B00235B71 /* PBXTextBookmark */;
+			CACF7F01121ADA7B00235B71 /* PBXTextBookmark */ = CACF7F01121ADA7B00235B71 /* PBXTextBookmark */;
+			CACF7F02121ADA7B00235B71 /* PBXTextBookmark */ = CACF7F02121ADA7B00235B71 /* PBXTextBookmark */;
+			CACF7F07121ADA9200235B71 /* PBXTextBookmark */ = CACF7F07121ADA9200235B71 /* PBXTextBookmark */;
+			CACF7F08121ADA9200235B71 /* PBXTextBookmark */ = CACF7F08121ADA9200235B71 /* PBXTextBookmark */;
+			CACF7F09121ADA9200235B71 /* PBXTextBookmark */ = CACF7F09121ADA9200235B71 /* PBXTextBookmark */;
+			CACF7F0E121ADAD400235B71 /* PBXTextBookmark */ = CACF7F0E121ADAD400235B71 /* PBXTextBookmark */;
+			CACF7F0F121ADAD400235B71 /* PBXTextBookmark */ = CACF7F0F121ADAD400235B71 /* PBXTextBookmark */;
+			CACF7F10121ADAD400235B71 /* PBXTextBookmark */ = CACF7F10121ADAD400235B71 /* PBXTextBookmark */;
+			CACF7F18121ADB3D00235B71 /* PBXTextBookmark */ = CACF7F18121ADB3D00235B71 /* PBXTextBookmark */;
+			CACF7F19121ADB3D00235B71 /* PlistBookmark */ = CACF7F19121ADB3D00235B71 /* PlistBookmark */;
+			CACF7F1A121ADB3D00235B71 /* PlistBookmark */ = CACF7F1A121ADB3D00235B71 /* PlistBookmark */;
+		};
+		sourceControlManager = CACF7E781219FD2800235B71 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	CACF7E6F1219FD2500235B71 /* ZIAVPlayer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ZIAVPlayer;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	CACF7E781219FD2800235B71 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	CACF7E791219FD2800235B71 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	CACF7E7A121A06F600235B71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ZIAVPlayerAppDelegate.m */;
+		name = "ZIAVPlayerAppDelegate.m: 89";
+		rLen = 0;
+		rLoc = 3062;
+		rType = 0;
+		vrLen = 2709;
+		vrLoc = 0;
+	};
+	CACF7E7B121A06F600235B71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* ZIAVPlayerAppDelegate.h */;
+		name = "ZIAVPlayerAppDelegate.h: 14";
+		rLen = 0;
+		rLoc = 275;
+		rType = 0;
+		vrLen = 493;
+		vrLoc = 0;
+	};
+	CACF7E7C121A06F600235B71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ZIAVPlayerViewController.h */;
+		name = "ZIAVPlayerViewController.h: 12";
+		rLen = 0;
+		rLoc = 231;
+		rType = 0;
+		vrLen = 243;
+		vrLoc = 0;
+	};
+	CACF7E7D121A06F600235B71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ZIAVPlayerViewController.m */;
+		name = "ZIAVPlayerViewController.m: 43";
+		rLen = 0;
+		rLoc = 1855;
+		rType = 0;
+		vrLen = 844;
+		vrLoc = 0;
+	};
+	CACF7E7E121A06F600235B71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ZIAVPlayerViewController.m */;
+		name = "ZIAVPlayerViewController.m: 41";
+		rLen = 0;
+		rLoc = 1853;
+		rType = 0;
+		vrLen = 844;
+		vrLoc = 0;
+	};
+	CACF7EA1121AD75900235B71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ZIAVPlayerViewController.m */;
+		name = "ZIAVPlayerViewController.m: 41";
+		rLen = 0;
+		rLoc = 1853;
+		rType = 0;
+		vrLen = 844;
+		vrLoc = 0;
+	};
+	CACF7EAB121AD7A400235B71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ZIAVPlayerViewController.h */;
+		name = "ZIAVPlayerViewController.h: 24";
+		rLen = 0;
+		rLoc = 474;
+		rType = 0;
+		vrLen = 476;
+		vrLoc = 0;
+	};
+	CACF7EAC121AD7A400235B71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ZIAVPlayerViewController.m */;
+		name = "ZIAVPlayerViewController.m: 41";
+		rLen = 0;
+		rLoc = 1853;
+		rType = 0;
+		vrLen = 844;
+		vrLoc = 0;
+	};
+	CACF7EAD121AD7A400235B71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ZIAVPlayerViewController.m */;
+		name = "ZIAVPlayerViewController.m: 33";
+		rLen = 0;
+		rLoc = 902;
+		rType = 0;
+		vrLen = 1834;
+		vrLoc = 0;
+	};
+	CACF7EBA121AD84F00235B71 /* ZIAVPlayerView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {804, 772}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1200}";
+		};
+	};
+	CACF7EBB121AD84F00235B71 /* ZIAVPlayerView.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{837, 111}\";\n            s = 0;\n        },\n                {\n            r = \"{1085, 6632}\";\n            s = 0;\n        },\n                {\n            r = \"{7940, 313}\";\n            s = 0;\n        },\n                {\n            c =             (\n                                {\n                    r = \"{8696, 858}\";\n                    s = 0;\n                }\n            );\n            r = \"{8317, 1342}\";\n            s = 0;\n        },\n                {\n            r = \"{9738, 48}\";\n            s = 0;\n        },\n                {\n            r = \"{10061, 402}\";\n            s = 0;\n        },\n                {\n            r = \"{10497, 242}\";\n            s = 0;\n        },\n                {\n            r = \"{10992, 665}\";\n            s = 0;\n        },\n                {\n            r = \"{11691, 204}\";\n            s = 0;\n        },\n                {\n            r = \"{12141, 823}\";\n            s = 0;\n        },\n                {\n            r = \"{12985, 245}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 13239}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {835, 933}}";
+			sepNavSelRange = "{1265, 0}";
+			sepNavVisRange = "{41, 1908}";
+		};
+	};
+	CACF7EBC121AD84F00235B71 /* ZIAVScrubberView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {695, 772}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 691}";
+		};
+	};
+	CACF7ECC121AD87C00235B71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ZIAVPlayerViewController.m */;
+		name = "ZIAVPlayerViewController.m: 10";
+		rLen = 0;
+		rLoc = 213;
+		rType = 0;
+		vrLen = 1855;
+		vrLoc = 0;
+	};
+	CACF7ED8121AD89300235B71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ZIAVPlayerViewController.m */;
+		name = "ZIAVPlayerViewController.m: 10";
+		rLen = 0;
+		rLoc = 213;
+		rType = 0;
+		vrLen = 1855;
+		vrLoc = 0;
+	};
+	CACF7EF2121AD9C900235B71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ZIAVPlayerViewController.m */;
+		name = "ZIAVPlayerViewController.m: 20";
+		rLen = 0;
+		rLoc = 448;
+		rType = 0;
+		vrLen = 1855;
+		vrLoc = 0;
+	};
+	CACF7EF3121AD9C900235B71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* ZIAVPlayerAppDelegate.h */;
+		name = "ZIAVPlayerAppDelegate.h: 14";
+		rLen = 0;
+		rLoc = 275;
+		rType = 0;
+		vrLen = 493;
+		vrLoc = 0;
+	};
+	CACF7EF4121AD9C900235B71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ZIAVPlayerAppDelegate.m */;
+		name = "ZIAVPlayerAppDelegate.m: 34";
+		rLen = 0;
+		rLoc = 1008;
+		rType = 0;
+		vrLen = 3068;
+		vrLoc = 0;
+	};
+	CACF7EF5121AD9C900235B71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ZIAVPlayerAppDelegate.m */;
+		name = "ZIAVPlayerAppDelegate.m: 35";
+		rLen = 0;
+		rLoc = 1040;
+		rType = 0;
+		vrLen = 3063;
+		vrLoc = 0;
+	};
+	CACF7EFC121ADA7B00235B71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ZIAVPlayerViewController.h */;
+		name = "ZIAVPlayerViewController.h: 24";
+		rLen = 0;
+		rLoc = 474;
+		rType = 0;
+		vrLen = 476;
+		vrLoc = 0;
+	};
+	CACF7EFD121ADA7B00235B71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CACF7EBA121AD84F00235B71 /* ZIAVPlayerView.h */;
+		name = "ZIAVPlayerView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1200;
+		vrLoc = 0;
+	};
+	CACF7EFE121ADA7B00235B71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CACF7EBC121AD84F00235B71 /* ZIAVScrubberView.h */;
+		name = "ZIAVScrubberView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 691;
+		vrLoc = 0;
+	};
+	CACF7EFF121ADA7B00235B71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CACF7EBB121AD84F00235B71 /* ZIAVPlayerView.m */;
+		name = "ZIAVPlayerView.m: 54";
+		rLen = 0;
+		rLoc = 1412;
+		rType = 0;
+		vrLen = 2391;
+		vrLoc = 0;
+	};
+	CACF7F00121ADA7B00235B71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ZIAVPlayerAppDelegate.m */;
+		name = "ZIAVPlayerAppDelegate.m: 29";
+		rLen = 0;
+		rLoc = 825;
+		rType = 0;
+		vrLen = 3063;
+		vrLoc = 0;
+	};
+	CACF7F01121ADA7B00235B71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ZIAVPlayerViewController.m */;
+		name = "ZIAVPlayerViewController.m: 20";
+		rLen = 0;
+		rLoc = 448;
+		rType = 0;
+		vrLen = 1855;
+		vrLoc = 0;
+	};
+	CACF7F02121ADA7B00235B71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ZIAVPlayerViewController.m */;
+		name = "ZIAVPlayerViewController.m: 27";
+		rLen = 0;
+		rLoc = 782;
+		rType = 0;
+		vrLen = 1853;
+		vrLoc = 3;
+	};
+	CACF7F07121ADA9200235B71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ZIAVPlayerViewController.m */;
+		name = "ZIAVPlayerViewController.m: 52";
+		rLen = 0;
+		rLoc = 1468;
+		rType = 0;
+		vrLen = 1853;
+		vrLoc = 3;
+	};
+	CACF7F08121ADA9200235B71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ZIAVPlayerAppDelegate.m */;
+		name = "ZIAVPlayerAppDelegate.m: 29";
+		rLen = 0;
+		rLoc = 825;
+		rType = 0;
+		vrLen = 3063;
+		vrLoc = 0;
+	};
+	CACF7F09121ADA9200235B71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ZIAVPlayerAppDelegate.m */;
+		name = "ZIAVPlayerAppDelegate.m: 29";
+		rLen = 0;
+		rLoc = 824;
+		rType = 0;
+		vrLen = 3062;
+		vrLoc = 0;
+	};
+	CACF7F0E121ADAD400235B71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ZIAVPlayerAppDelegate.m */;
+		name = "ZIAVPlayerAppDelegate.m: 93";
+		rLen = 0;
+		rLoc = 3054;
+		rType = 0;
+		vrLen = 3062;
+		vrLoc = 0;
+	};
+	CACF7F0F121ADAD400235B71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ZIAVPlayerViewController.m */;
+		name = "ZIAVPlayerViewController.m: 52";
+		rLen = 0;
+		rLoc = 1468;
+		rType = 0;
+		vrLen = 1855;
+		vrLoc = 0;
+	};
+	CACF7F10121ADAD400235B71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CACF7EBB121AD84F00235B71 /* ZIAVPlayerView.m */;
+		name = "ZIAVPlayerView.m: 232";
+		rLen = 0;
+		rLoc = 9561;
+		rType = 0;
+		vrLen = 9542;
+		vrLoc = 372;
+	};
+	CACF7F18121ADB3D00235B71 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CACF7EBB121AD84F00235B71 /* ZIAVPlayerView.m */;
+		name = "ZIAVPlayerView.m: 234";
+		rLen = 0;
+		rLoc = 9659;
+		rType = 0;
+		vrLen = 11858;
+		vrLoc = 41;
+	};
+	CACF7F19121ADB3D00235B71 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* ZIAVPlayer-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/brandon/Documents/Ping Pong/ZIAVPlayer/ZIAVPlayer-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	CACF7F1A121ADB3D00235B71 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* ZIAVPlayer-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/brandon/Documents/Ping Pong/ZIAVPlayer/ZIAVPlayer-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+}
